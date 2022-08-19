@@ -1,0 +1,8 @@
+C:\Users\ali\source\repos\i want to become a progammer\bin\Debug\i want to become a progammer.exe.config
+C:\Users\ali\source\repos\i want to become a progammer\bin\Debug\i want to become a progammer.exe
+C:\Users\ali\source\repos\i want to become a progammer\bin\Debug\i want to become a progammer.pdb
+C:\Users\ali\source\repos\i want to become a progammer\obj\Debug\i want to become a progammer.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\i want to become a progammer\obj\Debug\i want to become a progammer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali\source\repos\i want to become a progammer\obj\Debug\i want to become a progammer.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\i want to become a progammer\obj\Debug\i want to become a progammer.exe
+C:\Users\ali\source\repos\i want to become a progammer\obj\Debug\i want to become a progammer.pdb
